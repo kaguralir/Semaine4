@@ -1,0 +1,32 @@
+.carrenoir{
+    height:100px;
+    width:100px;
+    background-color: black;
+    
+}
+
+.carreorange{
+    height:100px;
+    width:100px;
+    background-color: orange;
+}
+
+.carrejaune{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+}
+
+.carreblanc{
+    height:100px;
+    width:100px;
+    background-color: white;
+
+}
+
+.row{
+    
+    background-clip: padding-box;
+    border: 2px solid transparent;
+}
+
